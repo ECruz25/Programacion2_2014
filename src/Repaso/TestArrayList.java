@@ -33,5 +33,7 @@ public class TestArrayList {
             System.out.println("Esta!");
         else
             System.out.println("no esta");
+        ArrayList<String> numeros=new ArrayList<>();
+        
     }
 }
